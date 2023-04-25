@@ -16,3 +16,8 @@ before an analysis can be made on EdGap_data.xlsx and ccd_sch_029_1617_w_1a_1121
 5. Selecting relevant subsets of the data
 6. Joining data frames
 7. Quality Control
+8. identifying missing values
+9. Train test split
+10. Data imputation
+11. Create relevant derived variables as new columns
+12. Export the clean .csv files
