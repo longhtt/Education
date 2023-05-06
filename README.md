@@ -23,5 +23,12 @@ before an analysis can be made on EdGap_data.xlsx and ccd_sch_029_1617_w_1a_1121
 12. Export the clean .csv files
 
 ## Data Anaylsis
-using the clean data file created from the data preperation
+using the clean data file created from the data preperation, created a analysis notbook [DATA_3320_Education_Analysis_Long_Tran_Thien.ipynb](https://github.com/longhtt/Education/blob/main/DATA_3320_Education_Analysis_Long_Tran_Thien.ipynb)
 
+### short summery of steps taken to prep DATA_3320_Education_Analysis_Long_Tran_Thien.ipynb
+1. Introduction
+2. Import libraries
+3. Load clean data
+4. State your questions
+5. Analysis
+6. Conclusion
