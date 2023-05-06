@@ -21,3 +21,7 @@ before an analysis can be made on EdGap_data.xlsx and ccd_sch_029_1617_w_1a_1121
 10. Data imputation
 11. Create relevant derived variables as new columns
 12. Export the clean .csv files
+
+## Data Anaylsis
+using the clean data file created from the data preperation
+
